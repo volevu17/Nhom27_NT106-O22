@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\qu\u00E1 tr\u00ECnh ltmcb\\Nhom18_NT106-O22_BT_Tuan_5-7\\ChatSSL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2344FC19-5AFE-442B-9B81-00D94BAA7DDA}|ChatSSL\\ChatSSL.csproj|d:\\desktop\\qu\u00E1 tr\u00ECnh ltmcb\\nhom18_nt106-o22_bt_tuan_5-7\\chatssl\\chatssl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2344FC19-5AFE-442B-9B81-00D94BAA7DDA}|ChatSSL\\ChatSSL.csproj|solutionrelative:chatssl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2344FC19-5AFE-442B-9B81-00D94BAA7DDA}|ChatSSL\\ChatSSL.csproj|d:\\desktop\\qu\u00E1 tr\u00ECnh ltmcb\\nhom18_nt106-o22_bt_tuan_5-7\\chatssl\\chatssl\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2344FC19-5AFE-442B-9B81-00D94BAA7DDA}|ChatSSL\\ChatSSL.csproj|solutionrelative:chatssl\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2344FC19-5AFE-442B-9B81-00D94BAA7DDA}|ChatSSL\\ChatSSL.csproj|d:\\desktop\\qu\u00E1 tr\u00ECnh ltmcb\\nhom18_nt106-o22_bt_tuan_5-7\\chatssl\\chatssl\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2344FC19-5AFE-442B-9B81-00D94BAA7DDA}|ChatSSL\\ChatSSL.csproj|solutionrelative:chatssl\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop\\qu\u00E1 tr\u00ECnh ltmcb\\Nhom18_NT106-O22_BT_Tuan_5-7\\ChatSSL\\ChatSSL\\Server.cs",
+              "RelativeDocumentMoniker": "ChatSSL\\Server.cs",
+              "ToolTip": "D:\\Desktop\\qu\u00E1 tr\u00ECnh ltmcb\\Nhom18_NT106-O22_BT_Tuan_5-7\\ChatSSL\\ChatSSL\\Server.cs [Design]",
+              "RelativeToolTip": "ChatSSL\\Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:41:12.872Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop\\qu\u00E1 tr\u00ECnh ltmcb\\Nhom18_NT106-O22_BT_Tuan_5-7\\ChatSSL\\ChatSSL\\Form1.cs",
+              "RelativeDocumentMoniker": "ChatSSL\\Form1.cs",
+              "ToolTip": "D:\\Desktop\\qu\u00E1 tr\u00ECnh ltmcb\\Nhom18_NT106-O22_BT_Tuan_5-7\\ChatSSL\\ChatSSL\\Form1.cs [Design]",
+              "RelativeToolTip": "ChatSSL\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:41:07.45Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs [Design]",
+              "DocumentMoniker": "D:\\Desktop\\qu\u00E1 tr\u00ECnh ltmcb\\Nhom18_NT106-O22_BT_Tuan_5-7\\ChatSSL\\ChatSSL\\Client.cs",
+              "RelativeDocumentMoniker": "ChatSSL\\Client.cs",
+              "ToolTip": "D:\\Desktop\\qu\u00E1 tr\u00ECnh ltmcb\\Nhom18_NT106-O22_BT_Tuan_5-7\\ChatSSL\\ChatSSL\\Client.cs [Design]",
+              "RelativeToolTip": "ChatSSL\\Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:41:07.147Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

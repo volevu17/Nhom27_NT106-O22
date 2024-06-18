@@ -1,0 +1,10 @@
+C:\Users\kienp\Downloads\weekly_assignment-20240611T041343Z-001\weekly_assignment\calculator\bin\Debug\calculator.exe.config
+C:\Users\kienp\Downloads\weekly_assignment-20240611T041343Z-001\weekly_assignment\calculator\bin\Debug\calculator.exe
+C:\Users\kienp\Downloads\weekly_assignment-20240611T041343Z-001\weekly_assignment\calculator\bin\Debug\calculator.pdb
+C:\Users\kienp\Downloads\weekly_assignment-20240611T041343Z-001\weekly_assignment\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\kienp\Downloads\weekly_assignment-20240611T041343Z-001\weekly_assignment\calculator\obj\Debug\calculator.calculator.resources
+C:\Users\kienp\Downloads\weekly_assignment-20240611T041343Z-001\weekly_assignment\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\kienp\Downloads\weekly_assignment-20240611T041343Z-001\weekly_assignment\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\kienp\Downloads\weekly_assignment-20240611T041343Z-001\weekly_assignment\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\kienp\Downloads\weekly_assignment-20240611T041343Z-001\weekly_assignment\calculator\obj\Debug\calculator.exe
+C:\Users\kienp\Downloads\weekly_assignment-20240611T041343Z-001\weekly_assignment\calculator\obj\Debug\calculator.pdb

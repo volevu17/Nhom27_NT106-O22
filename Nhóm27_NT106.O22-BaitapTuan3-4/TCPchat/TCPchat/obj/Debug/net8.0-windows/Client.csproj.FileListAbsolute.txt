@@ -1,0 +1,17 @@
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\TCPchat\bin\Debug\net8.0-windows\Client.exe
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\TCPchat\bin\Debug\net8.0-windows\Client.deps.json
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\TCPchat\bin\Debug\net8.0-windows\Client.runtimeconfig.json
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\TCPchat\bin\Debug\net8.0-windows\Client.dll
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\TCPchat\bin\Debug\net8.0-windows\Client.pdb
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\TCPchat\obj\Debug\net8.0-windows\TCPchat.Form1.resources
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\TCPchat\obj\Debug\net8.0-windows\Client.csproj.GenerateResource.cache
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\TCPchat\obj\Debug\net8.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\TCPchat\obj\Debug\net8.0-windows\Client.AssemblyInfoInputs.cache
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\TCPchat\obj\Debug\net8.0-windows\Client.AssemblyInfo.cs
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\TCPchat\obj\Debug\net8.0-windows\Client.csproj.CoreCompileInputs.cache
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\TCPchat\obj\Debug\net8.0-windows\Client.sourcelink.json
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\TCPchat\obj\Debug\net8.0-windows\Client.dll
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\TCPchat\obj\Debug\net8.0-windows\refint\Client.dll
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\TCPchat\obj\Debug\net8.0-windows\Client.pdb
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\TCPchat\obj\Debug\net8.0-windows\Client.genruntimeconfig.cache
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\TCPchat\obj\Debug\net8.0-windows\ref\Client.dll

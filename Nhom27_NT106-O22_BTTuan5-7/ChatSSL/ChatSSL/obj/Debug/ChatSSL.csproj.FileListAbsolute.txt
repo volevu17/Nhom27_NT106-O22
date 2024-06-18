@@ -1,0 +1,12 @@
+D:\Desktop\quá trình ltmcb\Nhom18_NT106-O22_BT_Tuan_5-7\ChatSSL\ChatSSL\bin\Debug\ChatSSL.exe.config
+D:\Desktop\quá trình ltmcb\Nhom18_NT106-O22_BT_Tuan_5-7\ChatSSL\ChatSSL\bin\Debug\ChatSSL.exe
+D:\Desktop\quá trình ltmcb\Nhom18_NT106-O22_BT_Tuan_5-7\ChatSSL\ChatSSL\bin\Debug\ChatSSL.pdb
+D:\Desktop\quá trình ltmcb\Nhom18_NT106-O22_BT_Tuan_5-7\ChatSSL\ChatSSL\obj\Debug\ChatSSL.csproj.AssemblyReference.cache
+D:\Desktop\quá trình ltmcb\Nhom18_NT106-O22_BT_Tuan_5-7\ChatSSL\ChatSSL\obj\Debug\ChatSSL.Client.resources
+D:\Desktop\quá trình ltmcb\Nhom18_NT106-O22_BT_Tuan_5-7\ChatSSL\ChatSSL\obj\Debug\ChatSSL.Form1.resources
+D:\Desktop\quá trình ltmcb\Nhom18_NT106-O22_BT_Tuan_5-7\ChatSSL\ChatSSL\obj\Debug\ChatSSL.Properties.Resources.resources
+D:\Desktop\quá trình ltmcb\Nhom18_NT106-O22_BT_Tuan_5-7\ChatSSL\ChatSSL\obj\Debug\ChatSSL.Server.resources
+D:\Desktop\quá trình ltmcb\Nhom18_NT106-O22_BT_Tuan_5-7\ChatSSL\ChatSSL\obj\Debug\ChatSSL.csproj.GenerateResource.cache
+D:\Desktop\quá trình ltmcb\Nhom18_NT106-O22_BT_Tuan_5-7\ChatSSL\ChatSSL\obj\Debug\ChatSSL.csproj.CoreCompileInputs.cache
+D:\Desktop\quá trình ltmcb\Nhom18_NT106-O22_BT_Tuan_5-7\ChatSSL\ChatSSL\obj\Debug\ChatSSL.exe
+D:\Desktop\quá trình ltmcb\Nhom18_NT106-O22_BT_Tuan_5-7\ChatSSL\ChatSSL\obj\Debug\ChatSSL.pdb

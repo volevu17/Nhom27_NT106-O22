@@ -1,0 +1,17 @@
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\Server\bin\Debug\net8.0-windows\Server.exe
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\Server\bin\Debug\net8.0-windows\Server.deps.json
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\Server\bin\Debug\net8.0-windows\Server.runtimeconfig.json
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\Server\bin\Debug\net8.0-windows\Server.dll
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\Server\bin\Debug\net8.0-windows\Server.pdb
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\Server\obj\Debug\net8.0-windows\Server.Form1.resources
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\Server\obj\Debug\net8.0-windows\Server.csproj.GenerateResource.cache
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\Server\obj\Debug\net8.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\Server\obj\Debug\net8.0-windows\Server.AssemblyInfoInputs.cache
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\Server\obj\Debug\net8.0-windows\Server.AssemblyInfo.cs
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\Server\obj\Debug\net8.0-windows\Server.csproj.CoreCompileInputs.cache
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\Server\obj\Debug\net8.0-windows\Server.sourcelink.json
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\Server\obj\Debug\net8.0-windows\Server.dll
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\Server\obj\Debug\net8.0-windows\refint\Server.dll
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\Server\obj\Debug\net8.0-windows\Server.pdb
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\Server\obj\Debug\net8.0-windows\Server.genruntimeconfig.cache
+D:\Desktop\quá trình ltmcb\NT106.O22-BaitapTuan3-4-Nhom14\TCPchat\Server\obj\Debug\net8.0-windows\ref\Server.dll
